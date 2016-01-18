@@ -14,7 +14,7 @@ I'm Adam Elkus, a PhD student in Computational Social Science at George Mason Un
 
 ### Why Haven't I Seen This Before?/Why Is It So Bare Bones? 
 
-Well, I looked and I didn't see anything that fit the bill here in DC. So I decided to roll my own. If this takes off, I might invest in more infrastructure and a larger team. But until then, this is just one PhD student's attempt to get a discussion group in strategy off the ground in the simplest and most tractable form possible. 
+Well, I looked and I didn't see anything that fit the bill here in DC. So I decided to roll my own. If this takes off, I might invest in more infrastructure and a larger team. But until then, this is just one PhD student's attempt to get a discussion group on strategy off the ground in the simplest and most tractable form possible. 
 
 ### How Does It Work? 
 
