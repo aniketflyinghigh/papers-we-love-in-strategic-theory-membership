@@ -6,7 +6,7 @@ This is the main information page for Papers We Love in Strategic Theory, a grou
 
 ### What's It All About? 
 
-Papers We Love In Strategic Theory is a community oriented around the presentation and analysis of critical papers in strategic theory. See the top-level site description [for more](http://aelkus.github.io/papers-we-love-in-strategic-theory/) about what this entails. 
+Papers We Love In Strategic Theory is a community oriented around the presentation and analysis of critical papers in strategic theory. See the top-level site description [for more](http://aelkus.github.io/papers-we-love-in-strategic-theory/) for a brief explanation about what this entails. 
 
 ### Who Runs It? 
 
@@ -14,18 +14,18 @@ I'm Adam Elkus, a PhD student in Computational Social Science at George Mason Un
 
 ### Why Haven't I Seen This Before?/Why Is It So Bare Bones? 
 
-Well, I looked and I didn't see anything that fit the bill here in DC. So I decided to roll my own. If this takes off, I might invest in more infrastructure and a larger team. But until then, this is just one PhD student's attempt to get a discussion group on strategy off the ground in the simplest and most tractable form possible. 
+Well, I looked and I didn't see anything that fit the bill here in DC, so I decided to roll my own. If this takes off, I might invest in more infrastructure and a larger team to handle it. But until then, this is just one PhD student's attempt to get a discussion group on strategy and strategic theory off the ground in the simplest and most tractable form possible. 
 
-### How Does It Work? 
+### How Does It Work?/What Makes This Different?
 
-Papers We Love in Strategic Theory features two types of paper discussions, each of which occurs once a month at a pre-arranged time. DMV discussions take place in the DC, Virginia, and Maryland area. Virtual discussions take place over Google Hangout or a similar group meeting system online. The core reason behind a focus on real-time discussions and papers in particular is the following: 
+As the title implies, we present and discuss papers in strategic theory. 'Nuff said. But how do we do it? And why is this distinct from ___ or ___? Beyond the meetings being focused around papers, Papers We Love in Strategic Theory features two types of paper discussions, each of which occurs once a month at a pre-arranged time. *DMV discussions* take place in the DC, Virginia, and Maryland area. *Virtual discussions* take place over Google Hangout or a similar group meeting system online. The core reason behind a focus on real-time discussions and academic papers in particular is the following: 
 
 1. *Too much strategy-related content*. There are plenty of blogs, publications, and other forums competing for people's eyeballs. What there isn't enough of are forums for smaller groups of people to discuss strategy in a smaller, more conversational, and above all else synchronous (as opposed to asynchronous) setting. 
-2. *Not enough sophisticated strategy content*.  There are plenty of publications, forums, and articles that run articles about "strategy," but few of them really are consistently conversant with established research, knowledge, and understanding about strategy. Hence, a focus on papers and overly academic ones at that. 
+2. *Not enough sophisticated strategy content*.  There are plenty of publications, forums, and articles that run articles about "strategy," but few of them really are consistently conversant with established research, knowledge, and understanding about strategy. Hence, Papers We Love in Strategic theory focuses on papers and academic/theoretical ones at that. 
 
-Hence, DMV discussions are informal get-togethers at a bar, cafe, or other establishment where either caffeine or alcohol (the two elemental forms of fuel for strategic thinkers) is served to discuss one paper or a few related papers on an issue of interest. The discussion takes the form of a guided dialogue between the presenter and the group. This will be done in an establishment located in the DMV (DC, Virginia, Maryland) area. While this discussion will only be open to those physically able to make it in person, there are virtual discussions for those who cannot. 
+Hence, *DMV discussions* are informal get-togethers at a bar, cafe, or other establishment where either caffeine or alcohol (the two elemental forms of fuel for strategic thinkers) is served to discuss one paper or a few related papers on an issue of interest. The discussion takes the form of a guided dialogue between the presenter and the group. This will be done in an establishment located in the DMV (DC, Virginia, Maryland) area. While this discussion will only be open to those physically able to make it in person, there are virtual discussions for those who cannot. 
 
-In contrast, virtual discussions are intended to bring the community to those who cannot travel to the DC area. A presenter will take one paper or a set of related papers and present it to a virtual audience (via Google Hangouts or a similar mechanism). Once the presenter is done, the audience will then submit questions and comments, to which the presenter will respond. Presenters are encouraged to make their presentations graphically rich and entertaining, and in any event to also keep them not more than 35 minutes in length. 
+In contrast, virtual discussions are intended to bring the community events to those who cannot travel to the DC area. A presenter will take one paper or a set of related papers and present it to a virtual audience (via Google Hangouts or a similar mechanism). Once the presenter is done, the audience will then submit questions and comments, to which the presenter will respond. Presenters are encouraged to make their presentations graphically rich and entertaining, and in any event to also keep them not more than 35 minutes in length. 
 
 ### What Do You Mean By Strategy? 
 
