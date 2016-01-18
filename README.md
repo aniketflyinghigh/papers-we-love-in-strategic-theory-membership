@@ -37,7 +37,7 @@ If you are confused, I recommend these (free) resources to understand the nature
 
 Good books you can order on Amazon.com about strategy are: 
 
-1. [Strategy: A History]((http://www.amazon.com/gp/product/B00F3D4IVG/ref=dp-kindle-redirect?ie=UTF8&btkr=1)
+1. [Strategy: A History](http://www.amazon.com/gp/product/B00F3D4IVG/ref=dp-kindle-redirect?ie=UTF8&btkr=1)
 2. [Makers of Modern Strategy](http://www.amazon.com/Makers-Modern-Strategy-Machiavelli-Nuclear/dp/0691027641/ref=sr_1_1?ie=UTF8&qid=1453102166&sr=8-1&keywords=makers+of+modern+strategy)
 3. [Strategic Studies: A Reader](http://www.amazon.com/Strategic-Studies-Reader-Thomas-Mahnken/dp/0415772222)
 4. [War, Peace, and International Relations](http://www.amazon.com/War-Peace-International-Relations-introduction/dp/0415594871/ref=sr_1_1?ie=UTF8&qid=1453102228&sr=8-1&keywords=war+peace+international+relations)
