@@ -50,23 +50,23 @@ Good books you can order on Amazon.com about strategy are:
 
 ## Guidelines 
 
-## Logistics
+### Logistics
 
-### How To Sign Up 
+#### How To Sign Up 
 
 Send an email to `papers.we.love.in.strategy@gmail.com`, and specify in the email title whether you are signing up for DMV Discussions or Virtual Discussions. If you want to do both, just put both in the email title. 
 
-### Calendar 
+#### Calendar 
 
 Due to the irregularities of my own schedule, each meeting's date and time will be announced as an calendar invite for those on a particular discussion list. 
 
-### Notes
+#### Notes
 
 If you miss a meeting, it will be written up and summarized, along with any materials that the presenter wishes to provide, [here](https://github.com/aelkus/papers-we-love-in-strategic-theory-presentations). 
 
-### Submission Instructions
+## Submission Instructions
 
-#### Paper Sources
+### Paper Sources
 
 We want to have a high-level discussion of strategy, so please only submit one of the following: 
 
@@ -74,9 +74,9 @@ We want to have a high-level discussion of strategy, so please only submit one o
 2. A professional journal article (the military publishes journals, such as *Parameters* and *US Naval Institute Proceedings* that touch on strategy). 
 3. A policy journal article (there are various journals, such as *The National Interest* or *The American Interest*, where content on strategy occassionally appears). 
 
-If any of this is unclear, feel free to ask!
+If any of this is unclear, feel free to ask for clarification. 
 
-#### Paper Guidelines
+### Paper Guidelines
 
 Submissions are more likely to be accepted if they have at least *two* of the following characteristics: 
 
@@ -84,7 +84,7 @@ Submissions are more likely to be accepted if they have at least *two* of the fo
 2. *Focus on a general issue on strategy rather than a particular one*. There are far too many current events discussion clubs, and this group is not going to be one of them. These focus on general issues, problems, etc and abstract and timeless issues and debates. If you are interested in the idea of doing something based on a current event or a historical case study, it should always be couched in terms of relevance to some larger debate, abstract problem, theoretical body of literature.
 3. *Focus on a particular issue or viewpoint of interest to strategy that isn't typically covered in literature*. If you can relate something in any number of fields that typically are underplayed in strategy -- from economics to even philosophy or artificial intelligence -- to strategy and do so in a professional and credible way -- give it your best shot! 
 
-#### How To Submit
+### How To Submit
 
 See [here](https://github.com/aelkus/papers-we-love-in-strategic-theory-membership/blob/master/how_to_submit.md). 
 
