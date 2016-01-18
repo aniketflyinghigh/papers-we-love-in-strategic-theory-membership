@@ -2,6 +2,8 @@
 
 This is the main information page for Papers We Love in Strategic Theory, a group devoted to the discussion and analysis of key papers in strategy and strategic theory. 
 
+TODO: clean up spelling and grammar errors before formal rollout on Tuesday. 
+
 ## Basic Information
 
 ### What's It All About? 
