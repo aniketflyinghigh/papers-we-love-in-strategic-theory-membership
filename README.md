@@ -10,7 +10,9 @@ Papers We Love In Strategic Theory is a community oriented around the presentati
 
 ### Who Runs It? 
 
-I'm Adam Elkus, a PhD student in Computational Social Science at George Mason University. For more about me, see my page [here](http://aelkus.github.io). For all communications regarding this discussion group, please email me at `papers.we.love.in.strategy@gmail.com`. With the exception of the top-level description ([here](http://aelkus.github.io/papers-we-love-in-strategic-theory/)) and presentation summaries (posted [here](https://github.com/aelkus/papers-we-love-in-strategic-theory-presentations)), all important announcements and information will be located in this repository. 
+I'm Adam Elkus, a PhD student in Computational Social Science at George Mason University. For more about me, see my page [here](http://aelkus.github.io). For all communications regarding this discussion group, please email me at `papers.we.love.in.strategy@gmail.com`. 
+
+With the exception of the top-level description ([here](http://aelkus.github.io/papers-we-love-in-strategic-theory/)) and presentation summaries (posted [here](https://github.com/aelkus/papers-we-love-in-strategic-theory-presentations)), all important announcements and information will be located in this Github repository. 
 
 ### Why Haven't I Seen This Before?/Why Is It So Bare Bones? 
 
