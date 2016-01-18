@@ -1,5 +1,7 @@
 # Papers We Love in Strategic Theory: Basic Information and Guidelines
 
+This is the main information page for Papers We Love in Strategic Theory, a group devoted to the discussion and analysis of key papers in strategy and strategic theory. 
+
 ## Basic Information
 
 ### What's It All About? 
@@ -12,11 +14,11 @@ I'm Adam Elkus, a PhD student in Computational Social Science at George Mason Un
 
 ### Why Haven't I Seen This Before?/Why Is It So Bare Bones? 
 
-Well, I looked and I didn't see anything that fit the bill here in DC. So I decided to roll my own. If this takes off, I might invest in more infrastructure and a more complex governance system. But until then, this is just one PhD student's attempt to get it off the ground in the simplest and most tractable form possible. 
+Well, I looked and I didn't see anything that fit the bill here in DC. So I decided to roll my own. If this takes off, I might invest in more infrastructure and a larger team. But until then, this is just one PhD student's attempt to get a discussion group in strategy off the ground in the simplest and most tractable form possible. 
 
 ### How Does It Work? 
 
-Papers We Love in Strategic Theory works off of two types of paper discussions, each of which occurs once a month. 
+Papers We Love in Strategic Theory features two types of paper discussions, each of which occurs once a month at a pre-arranged time. DMV discussions take place in the DC, Virginia, and Maryland area. Virtual discussions take place over Google Hangout or a similar group meeting system online. 
 
 #### DMV Discussions
 
@@ -33,6 +35,19 @@ If you are confused, I recommend these (free) resources to understand the nature
 1. *Broad overviews of strategy*: "[Strategic theory and the history of war](http://www.clausewitz.com/readings/Moran-StrategicTheory.pdf)," "[Regaining Strategic Competence](http://www.isn.ethz.ch/Digital-Library/Publications/Detail/?id=162581&lng=en)", and "[Explaining Strategic Theory](https://www.infinityjournal.com/article/36/Explaining_Strategic_Theory/)"
 2. *Components of Strategic Reasoning and Choice*: Papers on [opposed systems design](http://www.rand.org/about/history/wohlstetter/DL16001-1/DL16001-1.html), [adversarial problem solving](http://cogsci.uwaterloo.ca/Articles/adversarial.pdf), [adversarial reasoning](http://arxiv.org/abs/1512.07943), [deterrence and theory of mind](http://kryten.mm.rpi.edu/SB_NSG_SE_EM_JL_nuclear_mindreading_062313.pdf), [planning and counterplanning](http://repository.cmu.edu/cgi/viewcontent.cgi?article=3348&context=compsci), [net assessment and competitive strategy](http://www.comw.org/qdr/fulltext/06bracken.pdf), and [game theory in defense strategy](http://cowles.yale.edu/sites/default/files/files/pub/d08/d0829.pdf). 
 3. Other Resources: Content and links in sites like [*Clausewitz.com*](http://www.clausewitz.com), [Sonshi.com](https://www.sonshi.com),*[Infinity Journal](https://www.infinityjournal.com)*, and *[The Strategy Bridge](http://www.thestrategybridge.com)*. 
+
+Good books you can order on Amazon.com about strategy are: 
+
+1. [Strategy: A History]((http://www.amazon.com/gp/product/B00F3D4IVG/ref=dp-kindle-redirect?ie=UTF8&btkr=1)
+2. [Makers of Modern Strategy](http://www.amazon.com/Makers-Modern-Strategy-Machiavelli-Nuclear/dp/0691027641/ref=sr_1_1?ie=UTF8&qid=1453102166&sr=8-1&keywords=makers+of+modern+strategy)
+3. [Strategic Studies: A Reader](http://www.amazon.com/Strategic-Studies-Reader-Thomas-Mahnken/dp/0415772222)
+4. [War, Peace, and International Relations](http://www.amazon.com/War-Peace-International-Relations-introduction/dp/0415594871/ref=sr_1_1?ie=UTF8&qid=1453102228&sr=8-1&keywords=war+peace+international+relations)
+5. [Strategy in the Contemporary World](http://www.amazon.com/Strategy-Contemporary-World-John-Baylis/dp/0199694788/ref=sr_1_1?ie=UTF8&qid=1453102264&sr=8-1&keywords=strategy+in+the+contemporary+world)
+6. [The Evolution of Strategy](http://www.amazon.com/Evolution-Strategy-Thinking-Antiquity-Present/dp/052115524X/ref=sr_1_1?ie=UTF8&qid=1453102293&sr=8-1&keywords=heuser+strategy)
+7. [Strategy Representation](http://www.amazon.com/Strategy-Representation-Analysis-Planning-Knowledge/dp/0415652022/ref=sr_1_1?ie=UTF8&qid=1453102318&sr=8-1&keywords=strategy+representation)
+8. [Modern Military Strategy](http://www.amazon.com/Modern-Military-Strategy-An-Introduction/dp/0415777712/ref=pd_sim_14_6?ie=UTF8&dpID=41EO1SHhS6L&dpSrc=sims&preST=_AC_UL160_SR113%2C160_&refRID=1WESB3NNHDDZTET18FY0)
+9. [The Strategy Bridge](http://www.amazon.com/Strategy-Bridge-Theory-Practice/dp/0199579660/ref=sr_1_1?ie=UTF8&qid=1453102445&sr=8-1&keywords=the+strategy+bridge)
+10. [Pure Strategy](http://www.amazon.com/Pure-Strategy-Principle-Information-History/dp/0714684988/ref=sr_1_1?ie=UTF8&qid=1453102428&sr=8-1&keywords=pure+strategy)
 
 ## Guidelines 
 
