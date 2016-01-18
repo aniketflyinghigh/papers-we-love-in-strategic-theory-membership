@@ -32,9 +32,9 @@ This discussion is intended to bring the community to those who cannot travel to
 
 If you are confused, I recommend these (free) resources to understand the nature, dynamics, and scope of strategy and strategic thought. 
 
-1. *Broad overviews of strategy*: "[Strategic theory and the history of war](http://www.clausewitz.com/readings/Moran-StrategicTheory.pdf)," "[Regaining Strategic Competence](http://www.isn.ethz.ch/Digital-Library/Publications/Detail/?id=162581&lng=en)", and "[Explaining Strategic Theory](https://www.infinityjournal.com/article/36/Explaining_Strategic_Theory/)"
+1. *Broad overviews of strategy*: "[Strategic theory and the history of war](http://www.clausewitz.com/readings/Moran-StrategicTheory.pdf)," "[Regaining Strategic Competence](http://www.isn.ethz.ch/Digital-Library/Publications/Detail/?id=162581&lng=en)", and "[Explaining Strategic Theory](https://www.infinityjournal.com/article/36/Explaining_Strategic_Theory/)" among others. 
 2. *Components of Strategic Reasoning and Choice*: Papers on [opposed systems design](http://www.rand.org/about/history/wohlstetter/DL16001-1/DL16001-1.html), [adversarial problem solving](http://cogsci.uwaterloo.ca/Articles/adversarial.pdf), [adversarial reasoning](http://arxiv.org/abs/1512.07943), [deterrence and theory of mind](http://kryten.mm.rpi.edu/SB_NSG_SE_EM_JL_nuclear_mindreading_062313.pdf), [planning and counterplanning](http://repository.cmu.edu/cgi/viewcontent.cgi?article=3348&context=compsci), [net assessment and competitive strategy](http://www.comw.org/qdr/fulltext/06bracken.pdf), and [game theory in defense strategy](http://cowles.yale.edu/sites/default/files/files/pub/d08/d0829.pdf). 
-3. *Other Resources*: Content and links in sites like [*Clausewitz.com*](http://www.clausewitz.com), [Sonshi.com](https://www.sonshi.com),*[Infinity Journal](https://www.infinityjournal.com)*, and *[The Strategy Bridge](http://www.thestrategybridge.com)*. 
+3. *Other Resources*: Content and links in sites like [*Clausewitz.com*](http://www.clausewitz.com), [*Sonshi.com*](https://www.sonshi.com), *[Infinity Journal](https://www.infinityjournal.com)*, and *[The Strategy Bridge](http://www.thestrategybridge.com)*. 
 
 Good books you can order on Amazon.com about strategy are: 
 
