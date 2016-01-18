@@ -10,7 +10,7 @@ Papers We Love In Strategic Theory is a community oriented around the presentati
 
 ### Who Runs It? 
 
-I'm Adam Elkus, a PhD student in Computational Social Science at George Mason University. For more about me, see my page [here](http://aelkus.github.io). 
+I'm Adam Elkus, a PhD student in Computational Social Science at George Mason University. For more about me, see my page [here](http://aelkus.github.io). For all communications regarding this discussion group, please email me at `papers.we.love.in.strategy@gmail.com`. 
 
 ### Why Haven't I Seen This Before?/Why Is It So Bare Bones? 
 
@@ -18,15 +18,14 @@ Well, I looked and I didn't see anything that fit the bill here in DC. So I deci
 
 ### How Does It Work? 
 
-Papers We Love in Strategic Theory features two types of paper discussions, each of which occurs once a month at a pre-arranged time. DMV discussions take place in the DC, Virginia, and Maryland area. Virtual discussions take place over Google Hangout or a similar group meeting system online. 
+Papers We Love in Strategic Theory features two types of paper discussions, each of which occurs once a month at a pre-arranged time. DMV discussions take place in the DC, Virginia, and Maryland area. Virtual discussions take place over Google Hangout or a similar group meeting system online. The core reason behind a focus on real-time discussions and papers in particular is the following: 
 
-#### DMV Discussions
+1. *Too much strategy-related content*. There are plenty of blogs, publications, and other forums competing for people's eyeballs. What there isn't enough of are forums for smaller groups of people to discuss strategy in a smaller, more conversational, and above all else synchronous (as opposed to asynchronous) setting. 
+2. *Not enough sophisticated strategy content*.  There are plenty of publications, forums, and articles that run articles about "strategy," but few of them really are consistently conversant with established research, knowledge, and understanding about strategy. Hence, a focus on papers and overly academic ones at that. 
 
-This is an informal get-together at a bar, cafe, or other establishment where either caffeine or alcohol (the two elemental forms of fuel for strategic thinkers) is served to discuss one paper or a few related papers on an issue of interest. The discussion takes the form of a guided dialogue between the presenter and the group. This will be done in an establishment located in the DMV (DC, Virginia, Maryland) area. While this discussion will only be open to those physically able to make it in person, there are virtual discussions for those who cannot. 
+Hence, DMV discussions are informal get-togethers at a bar, cafe, or other establishment where either caffeine or alcohol (the two elemental forms of fuel for strategic thinkers) is served to discuss one paper or a few related papers on an issue of interest. The discussion takes the form of a guided dialogue between the presenter and the group. This will be done in an establishment located in the DMV (DC, Virginia, Maryland) area. While this discussion will only be open to those physically able to make it in person, there are virtual discussions for those who cannot. 
 
-#### Virtual Discussions
-
-This discussion is intended to bring the community to those who cannot travel to the DC area. A presenter will take one paper or a set of related papers and present it to a virtual audience (via Google Hangouts or a similar mechanism). Once the presenter is done, the audience will then submit questions and comments, to which the presenter will respond. Presenters are encouraged to make their presentations graphically rich and entertaining, and in any event to also keep them not more than 35 minutes in length. 
+In contrast, virtual discussions are intended to bring the community to those who cannot travel to the DC area. A presenter will take one paper or a set of related papers and present it to a virtual audience (via Google Hangouts or a similar mechanism). Once the presenter is done, the audience will then submit questions and comments, to which the presenter will respond. Presenters are encouraged to make their presentations graphically rich and entertaining, and in any event to also keep them not more than 35 minutes in length. 
 
 ### What Do You Mean By Strategy? 
 
@@ -108,5 +107,3 @@ This is a community of people that study strategy or are interested in strategy.
 1. *Think about me*. No one is paying me to do this, and as an academic (who just got recently married) I have a lot of other competing demands. So think of how what you do might impact me in view of those limitations.
 2. *Think about group members who work for the government/military/intel services/etc*. There is a reason why many of my friends' online writings come appended with a lengthy disclaimer about their opinions not necessarily being those of DoD/IC/their mom/etc. Some of the people in the group will have limitations in what they can say and how they can say it, and we can only get their man-or-woman-in-the-arena insights if we respect those limitations. 
 3. *Think about people that might otherwise not participate in these discussions*. Strategy transcends disciplines and communities. Carl von Clausewitz got some of his best ideas from physics. John Boyd studied everything from cognitive science to epistemology. Make it easier, not harder, for people that aren't a part of the usual crowd to participate in strategy discussions. 
-
-
