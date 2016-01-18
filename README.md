@@ -1,4 +1,4 @@
-# Papers We Love in Strategic Theory: How to Join, How to Contribute
+# Papers We Love in Strategic Theory: Basic Information and Guidelines
 
 ## Basic Information
 
