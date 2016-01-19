@@ -2,8 +2,6 @@
 
 This is the main information page for Papers We Love in Strategic Theory, a group devoted to the discussion and analysis of key papers in strategy and strategic theory. 
 
-TODO: clean up spelling and grammar errors before formal rollout on Tuesday. 
-
 ## Basic Information
 
 ### What's It All About? 
@@ -12,7 +10,9 @@ Papers We Love In Strategic Theory is a community oriented around the presentati
 
 ### Who Runs It? 
 
-I'm Adam Elkus, a PhD student in Computational Social Science at George Mason University. For more about me, see my page [here](http://aelkus.github.io). For all communications regarding this discussion group, please email me at `papers.we.love.in.strategy@gmail.com`. With the exception of the top-level description ([here](http://aelkus.github.io/papers-we-love-in-strategic-theory/)) and presentation summaries (posted [here](https://github.com/aelkus/papers-we-love-in-strategic-theory-presentations)), all important static information will be located here. All updates/announcements will be posted [here](http://aelkus.github.io/papers_we_love_strategic_theory_updates/) 
+I'm Adam Elkus, a PhD student in Computational Social Science at George Mason University. For more about me, see my page [here](http://aelkus.github.io). For all communications regarding this discussion group, please email me at `papers.we.love.in.strategy@gmail.com`. With the exception of the top-level description ([here](http://aelkus.github.io/papers-we-love-in-strategic-theory/)) and presentation summaries (posted [here](https://github.com/aelkus/papers-we-love-in-strategic-theory-presentations)), all important static information will be located here. All updates/announcements will be posted [here](http://aelkus.github.io/papers_we_love_strategic_theory_updates/). 
+
+I plan to make an IRC channel in the near future, so stay tuned. 
 
 ### Why Haven't I Seen This Before?/Why Is It So Bare Bones? 
 
@@ -27,9 +27,11 @@ As the title implies, we present and discuss papers in strategic theory. 'Nuff s
 
 Hence, *DMV discussions* are informal get-togethers at a bar, cafe, or other establishment where either caffeine or alcohol (the two elemental forms of fuel for strategic thinkers) is served to discuss one paper or a few related papers on an issue of interest. The discussion takes the form of a guided dialogue between the presenter and the group. This will be done in an establishment located in the DMV (DC, Virginia, Maryland) area. While this discussion will only be open to those physically able to make it in person, there are virtual discussions for those who cannot. 
 
-In contrast, virtual discussions are intended to bring the community events to those who cannot travel to the DC area. A presenter will take one paper or a set of related papers and present it to a virtual audience (via Google Hangouts or a similar mechanism). Once the presenter is done, the audience will then submit questions and comments, to which the presenter will respond. Presenters are encouraged to make their presentations graphically rich and entertaining, and in any event to also keep them not more than 35 minutes in length. 
+In contrast, *virtual discussions* are intended to bring the community events to those who cannot travel to the DC area. A presenter will take one paper or a set of related papers and present it to a virtual audience (via Google Hangouts or a similar mechanism). Once the presenter is done, the audience will then submit questions and comments, to which the presenter will respond. Presenters are encouraged to make their presentations graphically rich and entertaining, and in any event to also keep them not more than 35 minutes in length. 
 
 ### What Do You Mean By Strategy? 
+
+Good question!
 
 If you are confused, I recommend these (free) resources to understand the nature, dynamics, and scope of strategy and strategic thought. 
 
@@ -94,9 +96,9 @@ See [here](https://github.com/aelkus/papers-we-love-in-strategic-theory-membersh
 
 ### Observe Chatham House Guidelines
 
-We plan to observe [Chatham House](https://en.wikipedia.org/wiki/Chatham_House_Rule) guidelines. Many people interested in strategy are not at liberty to completely talk freely about it. Hence, while the generalized content of meetings, the presenter and topic, papers used, and other similar information will be summarized [here](https://github.com/aelkus/papers-we-love-in-strategic-theory-presentations), beyond that *who* said what and what they specifically said will be kept private. Violation of this rule is grounds for immediate and *permanent* expulsion. 
+We plan to observe [Chatham House](https://en.wikipedia.org/wiki/Chatham_House_Rule) guidelines. Many people interested in strategy are not at liberty to completely talk freely about it. Hence, while the generalized content of meetings, the presenter and topic, papers used, and other similar information will be summarized [here](https://github.com/aelkus/papers-we-love-in-strategic-theory-presentations), *who* said what and what they specifically said will be kept private. Violation of this rule is grounds for immediate and *permanent* expulsion. 
 
-However, if you consent to allow the materials used in your presentation and discussion to be posted online, they will be put up along with summary. Presenters are encouraged to do so whenever possible as it helps create a record of what has been said, but if they cannot for occupational and professional reasons it is also OK. 
+However, if you consent to allow the materials used in your presentation and discussion to be posted online, they will be put up along with the summary. Presenters are encouraged to do so whenever possible as it helps create a record of what has been said, but if they cannot for occupational and professional reasons it is also OK. 
 
 ### Be Civil
 
@@ -106,6 +108,6 @@ Attack the idea, not the person. Given that this is inspired loosely by Papers W
 
 This is a community of people that study strategy or are interested in strategy. I trust that you will exercise sound judgement and discretion and do the following: 
 
-1. *Think about me*. No one is paying me to do this, and as an academic (who just got recently married) I have a lot of other competing demands. So think of how what you do might impact me in view of those limitations.
+1. *Think about me*. No one is paying me to do this, and as an academic (who just got recently married) I have a lot of other competing demands. So think of how what you do might impact me in view of those limitations :)
 2. *Think about group members who work for the government/military/intel services/etc*. There is a reason why many of my friends' online writings come appended with a lengthy disclaimer about their opinions not necessarily being those of DoD/IC/their mom/etc. Some of the people in the group will have limitations in what they can say and how they can say it, and we can only get their man-or-woman-in-the-arena insights if we respect those limitations. 
 3. *Think about people that might otherwise not participate in these discussions*. Strategy transcends disciplines and communities. Carl von Clausewitz got some of his best ideas from physics. John Boyd studied everything from cognitive science to epistemology. Make it easier, not harder, for people that aren't a part of the usual crowd to participate in strategy discussions. 
