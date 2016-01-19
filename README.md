@@ -8,13 +8,11 @@ TODO: clean up spelling and grammar errors before formal rollout on Tuesday.
 
 ### What's It All About? 
 
-Papers We Love In Strategic Theory is a community oriented around the presentation and analysis of critical papers in strategic theory. See the top-level site description [for more](http://aelkus.github.io/papers-we-love-in-strategic-theory/) for a brief explanation about what this entails. 
+Papers We Love In Strategic Theory is a community oriented around the presentation and analysis of critical papers in strategic theory. It is loosely inspired by [Papers We Love](http://paperswelove.org), but there's no connection other than the idea of reading and discussing papers. See the top-level site description [for more](http://aelkus.github.io/papers-we-love-in-strategic-theory/) and a brief explanation about what this entails. 
 
 ### Who Runs It? 
 
-I'm Adam Elkus, a PhD student in Computational Social Science at George Mason University. For more about me, see my page [here](http://aelkus.github.io). For all communications regarding this discussion group, please email me at `papers.we.love.in.strategy@gmail.com`. 
-
-With the exception of the top-level description ([here](http://aelkus.github.io/papers-we-love-in-strategic-theory/)) and presentation summaries (posted [here](https://github.com/aelkus/papers-we-love-in-strategic-theory-presentations)), all important announcements and information will be located in this Github repository. 
+I'm Adam Elkus, a PhD student in Computational Social Science at George Mason University. For more about me, see my page [here](http://aelkus.github.io). For all communications regarding this discussion group, please email me at `papers.we.love.in.strategy@gmail.com`. With the exception of the top-level description ([here](http://aelkus.github.io/papers-we-love-in-strategic-theory/)) and presentation summaries (posted [here](https://github.com/aelkus/papers-we-love-in-strategic-theory-presentations)), all important static information will be located here. All updates/announcements will be posted [here](http://aelkus.github.io/papers_we_love_strategic_theory_updates/) 
 
 ### Why Haven't I Seen This Before?/Why Is It So Bare Bones? 
 
